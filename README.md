@@ -4,7 +4,3 @@ An implementation of the Far Cry 3 reinforcements theme we all know and love.
 
 Credits to Ubisoft Montreal for the theme from Far Cry 3,
 and to Sraigius for ripping the theme from the game files and uploading it to YouTube.
-
-Fun Fact: Sraigius's video is actually called "A relentless enemy", with the "Complicated Situation"
-track being completely different. I decided to call this "Complicated Situation"
-as it fits the track's purpose more than "A relentless enemy".
